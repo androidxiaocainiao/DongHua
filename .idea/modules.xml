@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DongHua.iml" filepath="$PROJECT_DIR$/DongHua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bujiandonghua/bujiandonghua.iml" filepath="$PROJECT_DIR$/bujiandonghua/bujiandonghua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/donghuadianjijiantingshijian/donghuadianjijiantingshijian.iml" filepath="$PROJECT_DIR$/donghuadianjijiantingshijian/donghuadianjijiantingshijian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/donghuaxiaoxiangmu/donghuaxiaoxiangmu.iml" filepath="$PROJECT_DIR$/donghuaxiaoxiangmu/donghuaxiaoxiangmu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuxingdonghua/shuxingdonghua.iml" filepath="$PROJECT_DIR$/shuxingdonghua/shuxingdonghua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuhedonghua/zuhedonghua.iml" filepath="$PROJECT_DIR$/zuhedonghua/zuhedonghua.iml" />
+    </modules>
+  </component>
+</project>

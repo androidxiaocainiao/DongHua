@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scale xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromXScale="1"
+    android:fromYScale="1"
+    android:toXScale="2"
+    android:toYScale="2"
+    android:duration="2000"
+    android:fillAfter="true"
+    android:fillBefore="true"
+    android:interpolator="@android:anim/accelerate_decelerate_interpolator">
+
+</scale><!--是否保存之前的位置--><!--android:fillBefore="true"-->
